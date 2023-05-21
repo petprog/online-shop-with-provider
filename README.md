@@ -8,7 +8,7 @@ The following packages are used in this project:
 
 - [cached_network_image](https://pub.dev/packages/cached_network_image)
 - [cupertino_icons](https://pub.dev/packages/cupertino_icons)
-- [flutter_rating_bar](https://pub.dev/packages/flutter_rating_bar
+- [flutter_rating_bar](https://pub.dev/packages/flutter_rating_bar)
 - [flutter_slidable](https://pub.dev/packages/flutter_slidable)
 - [flutter_vector_icons](https://pub.dev/packages/flutter_vector_icons)
 - [google_fonts](https://pub.dev/packages/google_fonts)
