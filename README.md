@@ -1,4 +1,4 @@
-# Flutter Online Shopping App
+# Flutter Online Shopping App With Provider
 
 This Flutter project is an online shopping app that allows users to browse and add products to their cart. It utilizes various packages to enhance the app's functionality and UI.
 
