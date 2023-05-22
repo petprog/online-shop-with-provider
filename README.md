@@ -29,13 +29,13 @@ The Flutter Online Shopping App provides users with a seamless shopping experien
 ## Screenshots
 
 <div align="center">
-    <img src="screenshots/ss1.jpg" alt="Image 1" width="300" />
-    <img src="screenshots/ss2.jpg" alt="Image 2" width="300" />
-    <img src="screenshots/ss3.jpg" alt="Image 3" width="300" />
+    <img src="screenshots/ss1.jpg" alt="Image 1" width="200" />
+    <img src="screenshots/ss2.jpg" alt="Image 2" width="200" />
+    <img src="screenshots/ss3.jpg" alt="Image 3" width="200" />
 </div>
 
 <div align="center">
-    <img src="screenshots/ss4.jpg" alt="Image 4" width="300" />
-    <img src="screenshots/ss5.jpg" alt="Image 5" width="300" />
-    <img src="screenshots/ss6.jpg" alt="Image 6" width="300" />
+    <img src="screenshots/ss4.jpg" alt="Image 4" width="200" />
+    <img src="screenshots/ss5.jpg" alt="Image 5" width="200" />
+    <img src="screenshots/ss6.jpg" alt="Image 6" width="200" />
 </div>
