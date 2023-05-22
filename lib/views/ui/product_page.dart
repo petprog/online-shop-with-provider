@@ -335,7 +335,7 @@ class _ProductPageState extends State<ProductPage> {
                                                   ),
                                                 );
                                               } else {
-                                                await cartNotifier.createCart({
+                                                cartNotifier.createCart({
                                                   "id": widget.sneaker.id,
                                                   "name": widget.sneaker.name,
                                                   "category":

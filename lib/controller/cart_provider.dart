@@ -31,7 +31,7 @@ class CartNotifier extends ChangeNotifier {
     notifyListeners();
   }
 
-  Future<void> createCart(Map<dynamic, dynamic> newCart) async {
+  void addCart(Map<dynamic, dynamic> newCart) async {
     for (var item in _cart) {
       if (item['id'] == newCart['id']) {
         _cartBox.delete(item['key']);
@@ -39,7 +39,10 @@ class CartNotifier extends ChangeNotifier {
     }
     await _cartBox.add(newCart);
     notifyListeners();
+  }
 
+  Future<void> createCart(Map<dynamic, dynamic> newCart) async {
+    addCart(newCart);
     // print('save to car_box');
   }
 
